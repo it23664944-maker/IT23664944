@@ -60,3 +60,7 @@ IT23288430/
 - 03 Positive UI-related test case (real-time output)
 - 24 Positive functional test cases
 - 03 Negative UI-related test case (real-time output)
+
+## Repository
+
+This workspace is pushed to GitHub: https://github.com/it23664944-maker/IT23664944.git
